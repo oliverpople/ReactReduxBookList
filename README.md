@@ -5,7 +5,7 @@ A web app that displays a simple booklist.  Book details can be displayed by cli
 
 ### Getting Started
 
-Checkout this repo, install dependencies, then start the gulp process with the following:
+Checkout this repo, install dependencies, then start with the following:
 
 ```
 > git clone https://github.com/oliverpople/ReduxBookList.git
